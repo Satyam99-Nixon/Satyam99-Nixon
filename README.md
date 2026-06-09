@@ -1,15 +1,15 @@
 # 👋 Hi, I'm SATYAM SIVAM BARIK
 
-🎓 Computer Science Student
+![](https://komarev.com/ghpvc/?username=Satyam99-Nixon&color=blue)
 
-
-🌱 Learning Backend Development
-
-🚀 Passionate About Software Development & Technology
+🎓 Computer Science Student  
+🌱 Learning Java Backend Development  
+💻 Passionate About Software Development & Problem Solving  
+🚀 Building Projects & Improving DSA Skills
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 Java • HTML • CSS • JavaScript • Git • GitHub • OOP • Backend Development • Problem Solving
 
@@ -24,6 +24,23 @@ Java • HTML • CSS • JavaScript • Git • GitHub • OOP • Backend Deve
 
 ---
 
+## 🚀 Featured Projects
+
+- Employee Management System
+- Portfolio Website
+- Quiz Application
+- Hostel Management System
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam99-Nixon&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam99-Nixon&layout=compact&theme=tokyonight)
+
+---
+
 ## 🌐 Connect With Me
 
 🔗 LinkedIn: https://linkedin.com/in/satyam-sivam-barik-585011294
@@ -32,4 +49,4 @@ Java • HTML • CSS • JavaScript • Git • GitHub • OOP • Backend Deve
 
 ---
 
-⭐ Code • Learn • Build • Repeat ⭐
+⭐ **Code • Learn • Build • Repeat** ⭐
