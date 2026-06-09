@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm SATYAM SIVAM BARIK
 
-<!--
-**Satyam99-Nixon/Satyam99-Nixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning Backend Development
+
+🚀 Passionate About Software Development & Technology
+
+---
+
+## 🛠 Tech Stack
+
+Java • HTML • CSS • JavaScript • Git • GitHub • OOP • Backend Development • Problem Solving
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Java Backend Development
+- Git & GitHub
+- Web Development
+
+---
+
+## 🌐 Connect With Me
+
+🔗 LinkedIn: https://linkedin.com/in/satyam-sivam-barik-585011294
+
+🔗 GitHub: https://github.com/Satyam99-Nixon
+
+---
+
+⭐ Code • Learn • Build • Repeat ⭐
