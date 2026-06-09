@@ -33,11 +33,15 @@ Java • HTML • CSS • JavaScript • Git • GitHub • OOP • Backend Deve
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Coding Profiles
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam99-Nixon&show_icons=true&theme=tokyonight)
+🔗 GeeksforGeeks: https://www.geeksforgeeks.org/user/rvstfbovvnz/
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam99-Nixon&layout=compact&theme=tokyonight)
+✅ Problems Solved: 495+
+
+✅ Coding Score: 1432+
+
+✅ Institute Rank: 96
 
 ---
 
