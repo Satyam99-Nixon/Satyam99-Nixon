@@ -37,11 +37,11 @@ Java • HTML • CSS • JavaScript • Git • GitHub • OOP • Backend Deve
 
 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/user/rvstfbovvnz/
 
-✅ Problems Solved: 495+
+✅ Problems Solved: 520+
 
-✅ Coding Score: 1432+
+✅ Coding Score: 1520+
 
-✅ Institute Rank: 96
+✅ Institute Rank: 50
 
 ---
 
